@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+head_scripts:
+  - |
+    <style>
+    .sidebar { display: none !important; }
+    .main { margin-left: 0 !important; }
+    </style>
