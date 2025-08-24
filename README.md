@@ -1,4 +1,4 @@
-\## 数学建模反思与总结
+\数学建模反思与总结
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-\*\*内容涵盖\*\*：
+\\内容涵盖\\：
 
 \- 数学建模组队、分工及高效协作指南
 
@@ -16,5 +16,5 @@
 
 
 
-\*\*在线访问\*\*: https://cpyq-cy.github.io/Math-Modeling-Reflection/
+\\在线访问\\: https://cpyq-cy.github.io/Math-Modeling-Reflection/
 
