@@ -1,18 +1,8 @@
 theme: jekyll-theme-minimal
+toc: false
 head_scripts:
   - |
     <style>
-    /* 隐藏左边目录栏 */
-    .sidebar { 
-      display: none !important; 
-    }
-    /* 让主要内容占满整个宽度 */
-    .main {
-      margin-left: 0 !important;
-      max-width: 100% !important;
-    }
-    /* 调整页面布局 */
-    .page {
-      display: block !important;
-    }
+    .sidebar { display: none !important; }
+    .main { margin-left: 0 !important; width: 100% !important; }
     </style>
